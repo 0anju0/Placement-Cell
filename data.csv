@@ -1,2 +1,3 @@
-﻿student_ID,student_Name,student_College,student_Email,student_Batch,student_Placement_Status,student_DSA_Score,student_Webd_Score,student_React_Score,interview_Date,interview_Company,interview_Result
-"64d8e86cd06693ca714abe63","Annu","IITM","annu@gmail.com","2022","Not placed",70,80,75,"2023-08-08","Agami","PASS"
+student_ID,student_Name,student_College,student_Email,student_Batch,student_Placement_Status,student_DSA_Score,student_Webd_Score,student_React_Score,interview_Date,interview_Company,interview_Result
+"64d9d0088dc43810e93372f6","Suman","JNU","suman@gmail.com","2020","Placed",89,80,85,"NA","NA","NA"
+"64d9d1328dc43810e933730a","Sumit","Punjab University ","sumit@gmail.com","2023","Not placed",78,80,75,"NA","NA","NA"
