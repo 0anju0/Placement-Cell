@@ -2,6 +2,8 @@
 🖊️ An interface for coding ninjas placement cell to keep records of students and schedule interviews with different companies
 This App built using EJS, MongoDB, ExpressJs and NodeJs
 
+# Hosted Link https://placementcell-cqs3.onrender.com
+
 #Features
 - Sign up / Sign in forms for employees
 - Add a new student to the list of students
@@ -26,16 +28,17 @@ List of the students And Sheduled Inerviews
 ![image](https://github.com/0anju0/Placement-Cell/assets/123807748/99918867-3b16-47ba-91fd-a336167ae7e0)
 
 
-Technologies Used
-For Frontend
-HTML
-CSS
-JS
-BOOTSTRAP
-Backend and Databases
-NodeJs
-Express
-MongoDB
-PassportJS Authentication
-CSV
-Hosted Link https://placementcell-cqs3.onrender.com
+# Technologies Used
+-For Frontend
+ HTML
+ CSS
+ JS
+ BOOTSTRAP
+ 
+-Backend and Databases
+ NodeJs
+ Express
+ MongoDB
+ PassportJS Authentication
+ CSV
+
